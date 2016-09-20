@@ -2,7 +2,8 @@
 
 
 A simple `Arduino` obstacle avoiding roving robot.
-the rover uses the folloing:
+
+The rover uses the folloing:
 
 
 - HC-SR04 ping sensor 
